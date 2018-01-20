@@ -1,0 +1,41 @@
+ 
+
+.numbers {
+  background: lightGray;
+  width: 50px;
+  height:40px;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 8px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+.cal {
+  background: orange;
+  width: 50px;
+  height:40px;
+  font-size: 20px;
+  font-weight: 700;
+  border-radius: 8px;
+  margin-left: 12px;
+  margin-top: 10px;
+}
+
+.numbers:hover {
+  background-color: darkGrey;
+  color: white;
+  }
+.cal:hover {
+  background-color: MOCCASIN;
+  }
+  
+  #output {
+  background: lightGray;
+  width: 225px;
+  text-align: right;
+  margin-left: 12px;
+  margin-bottom: 12px;
+  font-size: 30px;
+  font-weight: 700;
+  padding: 10px;
+  }
